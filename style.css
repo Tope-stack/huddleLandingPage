@@ -34,7 +34,7 @@ a {
 
 a:hover {
   transform: rotate(20deg);
-
+}
 .cta {
   padding: 10px 45px;
   border-radius: 50px;
@@ -49,7 +49,7 @@ a:hover {
 
 .cta:hover {
   transform: rotate(20deg);
-
+}
 #header {
   width: 100%;
   min-height: 100vh;
