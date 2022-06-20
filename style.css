@@ -55,7 +55,7 @@ h3 {
 
   .hero-section {
     height: 100vh;
-    background: var(--pale-cyan) url("images/bg-hero-desktop.svg") no-repeat;
+    background: var(--pale-cyan) url("assets/bg-hero-desktop.svg") no-repeat;
     padding: 36px 59px;
   }
   
@@ -234,7 +234,7 @@ h3 {
   
     .hero-section {
       padding: 20px;
-      background: var(--pale-cyan) url("images/bg-hero-mobile.svg") no-repeat;
+      background: var(--pale-cyan) url("assets/bg-hero-mobile.svg") no-repeat;
     }
     .btn {
       padding: 10px 30px;
