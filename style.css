@@ -29,7 +29,11 @@ img {
 a {
   text-decoration: none;
   color: black;
+  transition: 500ms;
 }
+
+a:hover {
+  transform: rotate(20deg);
 
 .cta {
   padding: 10px 45px;
@@ -40,7 +44,11 @@ a {
   -webkit-box-shadow: -2px 2px 20px 0px #0000001f;
           box-shadow: -2px 2px 20px 0px #0000001f;
   font-size: .9rem;
+  transition: 500ms;
 }
+
+.cta:hover {
+  transform: rotate(20deg);
 
 #header {
   width: 100%;
