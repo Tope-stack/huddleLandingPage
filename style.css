@@ -37,11 +37,13 @@ h3 {
     padding: 17px 64px;
     font-weight: 700;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition-duration: 500ms;
   }
   
   .btn:hover {
     cursor: pointer;
     opacity: 0.8;
+    transform: rotate(20deg);
   }
   
   .btn.primary {
