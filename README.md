@@ -4,5 +4,5 @@
 
 The project was built using 
 
--HTML
--CSS
+- HTML
+- CSS
