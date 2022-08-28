@@ -7,4 +7,4 @@ The project was built using
 - HTML
 - CSS
 
-Link to published page [https://tope-stack.github.io/huddleLandingPage/]
+Link to published page https://tope-stack.github.io/huddleLandingPage/
